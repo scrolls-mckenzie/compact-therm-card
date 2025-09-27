@@ -1,0 +1,1 @@
+{"version":3,"file":"compact-thermostat-card.js","sources":["../src/compact-thermostat-card.ts"],"sourcesContent":["// Main card implementation will be added in later tasks\nexport class CompactThermostatCard {\n  // Placeholder for card implementation\n}"],"names":[],"mappings":"AAAA;MACa,qBAAqB,CAAA;AAEjC;;;;"}
