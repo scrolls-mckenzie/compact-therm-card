@@ -1,5 +1,5 @@
 {
-  "name": "Climate thermostat card",
-  "render_readme": true,
-  "filename":"compact-thermostat-card.js"
+    "name": "compact-climate-card",
+    "render_readme": true,
+    "filename": "compact-thermostat-card.js"
 }
