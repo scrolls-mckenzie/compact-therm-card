@@ -1,6 +1,7 @@
 import { LitElement, TemplateResult, CSSResultGroup, PropertyValues } from 'lit';
 import { HomeAssistant, LovelaceCardEditor } from 'custom-card-helpers';
 import { CompactThermostatCardConfig, ThermostatState } from './types';
+import './compact-thermostat-card-editor';
 export declare class CompactThermostatCard extends LitElement {
     static getConfigElement(): Promise<LovelaceCardEditor>;
     static getStubConfig(): Partial<CompactThermostatCardConfig>;
